@@ -1,0 +1,9 @@
+c:\users\andréluis\documents\visual studio 2012\Projects\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\bin\Debug\TestIValueAndreNunes.exe.config
+c:\users\andréluis\documents\visual studio 2012\Projects\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\bin\Debug\TestIValueAndreNunes.exe
+c:\users\andréluis\documents\visual studio 2012\Projects\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\bin\Debug\TestIValueAndreNunes.pdb
+c:\users\andréluis\documents\visual studio 2012\Projects\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\obj\Debug\TestIValueAndreNunes.exe
+c:\users\andréluis\documents\visual studio 2012\Projects\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\obj\Debug\TestIValueAndreNunes.pdb
+C:\Users\Andréluis\documents\visual studio 2012\Projects\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\obj\Debug\TestIValueAndreNunes.csprojResolveAssemblyReference.cache
+C:\Users\Andréluis\Documents\GitHub\ExameIValue\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\bin\Debug\TestIValueAndreNunes.exe.config
+C:\Users\Andréluis\Documents\GitHub\ExameIValue\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\obj\Debug\TestIValueAndreNunes.exe
+C:\Users\Andréluis\Documents\GitHub\ExameIValue\TestIValue\TestIValueAndreNunes\TestIValueAndreNunes\obj\Debug\TestIValueAndreNunes.pdb
